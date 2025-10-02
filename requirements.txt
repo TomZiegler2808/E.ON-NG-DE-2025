@@ -1,0 +1,4 @@
+"Requirements file"
+
+streamlit>=1.25.0
+
